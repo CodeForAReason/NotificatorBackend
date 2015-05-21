@@ -8,6 +8,7 @@ Setup
 
 * Install JDK 8
 * Install Maven
+* Install Eclipse 4.4.2
 * Install Git
 * clone this repo
 
