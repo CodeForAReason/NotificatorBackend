@@ -9,7 +9,7 @@ Setup
 * Install JDK 8
 * Install Maven
 * Install Eclipse 4.4.2
-* Install Git (`GitHub for Windows <https://windows.github.com/>`)
+* Install Git ( `GitHub for Windows <https://windows.github.com/>`_ )
 * clone this repo
 
 and then run::
